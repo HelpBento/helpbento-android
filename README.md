@@ -25,7 +25,7 @@ Then add the dependency:
 
 ```kotlin
 dependencies {
-    implementation("com.github.HelpBento:helpbento-android:<tag>")
+    implementation("com.github.HelpBento:helpbento-android:0.1.0")
 }
 ```
 
